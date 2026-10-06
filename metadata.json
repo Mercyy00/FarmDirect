@@ -1,0 +1,6 @@
+{
+  "name": "FarmDirect - Fresh Farm to Door Marketplace",
+  "description": "Direct-from-farm marketplace, seasonal produce subscriptions, and local farm directory ready for Python Django backend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
